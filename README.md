@@ -1,7 +1,7 @@
 # icinga_arm64
 
-Unofficial repository for icinga2 packages for debian/arm64 platform.
-
+Unofficial repository for icinga2 packages for Debian Bullseye on arm64 platform.
+Don't use it in production!
 
 ## Use the repository
 ```bash
